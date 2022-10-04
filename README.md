@@ -21,4 +21,3 @@ Besides basic Python scills the main focus lies on the analysis of MRI data, inc
 
 Specifically, we will cover the following topics:
 
-## Readings 
