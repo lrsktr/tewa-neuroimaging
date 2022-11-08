@@ -13,7 +13,7 @@ The preprocessing will be guided. That is, we will provide you with a Jupyter no
 	- Realignment (Motion Correction)
 	- Coregistration of anatomical and functional image (using a pre-defined sub-workflow)
 	- Normalization to the MNI template (using a pre-defined sub-workflow)
-- Smoothing
+	- Smoothing
 - Perform **sanity checks** on the output 
 	- Plot output files
 	- Inspect motion parameters and detected artefacts
